@@ -488,20 +488,20 @@ sudo docker compose logs --follow
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
 ```
-mirror - or /m Mirror
-qbmirror - or /qm Mirror torrent using qBittorrent
-jdmirror - or /jm Mirror using jdownloader
-nzbmirror - or /nm Mirror using sabnzbd
-ytdl - or /y Mirror yt-dlp supported links
-leech - or /l Upload to telegram
-qbleech - or /ql Leech torrent using qBittorrent
-jdleech - or /jl Leech using jdownloader
-nzbleech - or /nl Leech using sabnzbd
-ytdlleech - or /yl Leech yt-dlp supported links
-clone - Copy file/folder to Drive
-count - Count file/folder from GDrive
-usetting - or /us User settings
-bsetting - or /bs Bot settings
+mirror - or /m1 Mirror
+qbmirror - or /qm1 Mirror torrent using qBittorrent
+jdmirror - or /jm1 Mirror using jdownloader
+nzbmirror - or /nm1 Mirror using sabnzbd
+ytdl - or /y1 Mirror yt-dlp supported links
+leech - or /l1 Upload to telegram
+qbleech - or /ql1 Leech torrent using qBittorrent
+jdleech - or /jl1 Leech using jdownloader
+nzbleech - or /nl1 Leech using sabnzbd
+ytdlleech - or /yl1 Leech yt-dlp supported links
+clone - Copy1 file/folder to Drive
+count - Count1 file/folder from GDrive
+usetting - or /us1 User settings
+bsetting - or /bs1 Bot settings
 status - Get Mirror Status message
 sel - Select files from torrent
 rss - Rss menu
